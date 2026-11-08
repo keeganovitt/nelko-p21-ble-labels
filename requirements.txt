@@ -1,0 +1,3 @@
+bleak>=0.22
+pillow>=10.0
+pyserial>=3.5  # imported by p21_print.py

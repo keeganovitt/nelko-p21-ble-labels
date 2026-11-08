@@ -1,0 +1,13 @@
+id,amps,title,subtitle,icon
+L1,15A,Living Room,Outlets · AFCI,outlet
+L2,20A,Kitchen Counter / Outlets,GFCI,outlet
+L3,15A,Hallway & Stairs,Lights,bulb
+L4,20A,Dishwasher / & Disposal,Kitchen,drop
+L5,40A,Range,2-pole,stove
+L6,30A,Dryer,2-pole · Laundry,washer
+R1,15A,Bedroom 2,AFCI,bed
+R2,20A,Refrigerator,,fridge
+R3,20A,Furnace,Heat,flame
+R4,30A,A/C Condenser,2-pole · Outdoor,snowflake
+R5,50A,EV Charger,2-pole · Garage,bolt
+R6,15A,Bathroom Fan,+ Lights · GFCI,fan
